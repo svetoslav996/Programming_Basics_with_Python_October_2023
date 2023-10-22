@@ -1,2 +1,2 @@
-# Programming_Basics_with_Python_Octomber_2023
-02_Python_PB_Octomber_2023_Problems
+# Programming_Basics_with_Python_October_2023
+02_Python_PB_October_2023_Problems
